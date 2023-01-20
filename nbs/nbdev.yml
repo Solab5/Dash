@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Dash"
+  site-url: "https://Solab5.github.io/Dash"
+  description: "A simple dash board using plotly and streamlit"
+  repo-branch: main
+  repo-url: "https://github.com/Solab5/Dash"
